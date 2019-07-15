@@ -1,0 +1,6 @@
+(executable
+  (name ExampleTests)
+  (public_name example-tests)
+  (package example-tests)
+  (libraries rarg LwtCmds)
+  )
