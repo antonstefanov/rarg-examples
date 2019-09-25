@@ -3,6 +3,12 @@
 This project shows an example commands tree that uses `lwt`.
 (Note that there is a fake `500ms` delay added in commands execution to simulate async activity)
 
+To try the commands:
+
+```
+esy examplelwt
+```
+
 To try the commands and autocompletion:
 
 - run
