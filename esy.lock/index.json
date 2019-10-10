@@ -1,5 +1,5 @@
 {
-  "checksum": "e86d525971ee3d4f9c408f50f6271d8d",
+  "checksum": "4450eadc38813db41785d6008aff773b",
   "root": "rarg-examples@link-dev:./package.json",
   "node": {
     "refmterr@3.2.2@d41d8cd9": {
@@ -33,7 +33,7 @@
       },
       "overrides": [],
       "dependencies": [
-        "refmterr@3.2.2@d41d8cd9", "rarg@0.4.1@d41d8cd9",
+        "refmterr@3.2.2@d41d8cd9", "rarg@0.4.2@d41d8cd9",
         "ocaml@4.6.1000@d41d8cd9", "@reason-native/rely@3.1.0@d41d8cd9",
         "@reason-native/pastel@0.2.1@d41d8cd9",
         "@reason-native/console@0.1.0@d41d8cd9",
@@ -45,14 +45,14 @@
         "@opam/merlin@opam:3.3.2@7a364181"
       ]
     },
-    "rarg@0.4.1@d41d8cd9": {
-      "id": "rarg@0.4.1@d41d8cd9",
+    "rarg@0.4.2@d41d8cd9": {
+      "id": "rarg@0.4.2@d41d8cd9",
       "name": "rarg",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "source": {
         "type": "install",
         "source": [
-          "archive:https://registry.npmjs.org/rarg/-/rarg-0.4.1.tgz#sha1:64fdd7f4cc4486fb2f3088f2ce94ae3c352e5cfb"
+          "archive:https://registry.npmjs.org/rarg/-/rarg-0.4.2.tgz#sha1:1889d8c85302087bb6e383d3a4d2bb13366bf3f8"
         ]
       },
       "overrides": [],
