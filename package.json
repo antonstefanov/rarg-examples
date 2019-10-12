@@ -33,7 +33,7 @@
     "@reason-native/pastel": "*",
     "@reason-native/rely": "*",
     "ocaml": "~4.6.0",
-    "rarg": "^0.4.2",
+    "rarg": "^0.5.0",
     "refmterr": "*"
   },
   "devDependencies": {
